@@ -6,6 +6,7 @@
 
 [![Tools in Category](https://img.shields.io/static/v1?label=Tools&message=15&color=blue&style=for-the-badge)](./) 
 [![Category Stars](https://img.shields.io/static/v1?label=Category%20Stars&message=290.3k+&color=yellow&style=for-the-badge)](https://github.com/tech-anupam/awesome-agentic-ecosystem) 
+[![Category Stars](https://img.shields.io/static/v1?label=Category%20Stars&message=291.3k+&color=yellow&style=for-the-badge)](https://github.com/tech-anupam/awesome-agentic-ecosystem) 
 [![Updated](https://img.shields.io/static/v1?label=Updated&message=2026-09-15&color=orange&style=for-the-badge)](https://github.com/tech-anupam/awesome-agentic-ecosystem)
 
 ---
@@ -26,8 +27,8 @@
 | [**`Kun`**](https://github.com/KunAgent/Kun) | Local-first AI agent workspace for coding, writing, design, research, and automation — one runtime for desktop GUI and TUI. | [![Stars](https://img.shields.io/github/stars/KunAgent/Kun?style=flat&label=⭐)](https://github.com/KunAgent/Kun) | `TypeScript` | [Explore ↗](https://github.com/KunAgent/Kun) |
 | [**`agents-cli`**](https://github.com/google/agents-cli) | The CLI and skills that turn any coding assistant into an expert at creating, evaluating, and deploying AI agents on Google Cloud. | [![Stars](https://img.shields.io/github/stars/google/agents-cli?style=flat&label=⭐)](https://github.com/google/agents-cli) | `Python` | [Explore ↗](https://github.com/google/agents-cli) |
 | [**`rllm`**](https://github.com/rllm-org/rllm) | Democratizing Reinforcement Learning for LLMs | [![Stars](https://img.shields.io/github/stars/rllm-org/rllm?style=flat&label=⭐)](https://github.com/rllm-org/rllm) | `Python` | [Explore ↗](https://github.com/rllm-org/rllm) |
-| [**`Fuxi`**](https://github.com/fuxicodex/Fuxi) | FuXi is a fast, self-contained AI coding agent that lives in your terminal — edit code, run commands, and drive tools, with cost-aware routing across LLM providers. | [![Stars](https://img.shields.io/github/stars/fuxicodex/Fuxi?style=flat&label=⭐)](https://github.com/fuxicodex/Fuxi) | `Python` | [Explore ↗](https://github.com/fuxicodex/Fuxi) |
 | [**`PI-Desktop`**](https://github.com/vastsa/PI-Desktop) | Local-first AI coding agent desktop: Electron + Rust host core + pi Agent Harness + user-installable plugins | [![Stars](https://img.shields.io/github/stars/vastsa/PI-Desktop?style=flat&label=⭐)](https://github.com/vastsa/PI-Desktop) | `TypeScript` | [Explore ↗](https://github.com/vastsa/PI-Desktop) |
+| [**`Fuxi`**](https://github.com/fuxicodex/Fuxi) | FuXi is a fast, self-contained AI coding agent that lives in your terminal — edit code, run commands, and drive tools, with cost-aware routing across LLM providers. | [![Stars](https://img.shields.io/github/stars/fuxicodex/Fuxi?style=flat&label=⭐)](https://github.com/fuxicodex/Fuxi) | `Python` | [Explore ↗](https://github.com/fuxicodex/Fuxi) |
 | [**`paca`**](https://github.com/Paca-AI/paca) | AI-native, free, open-source alternative to Jira, Trello, ClickUp & Monday. Built for Scrum teams where humans and AI agents collaborate as equals — on the same board, the same sprints, the same goals. Self-hosted. Fully customizable via config and plugins. | [![Stars](https://img.shields.io/github/stars/Paca-AI/paca?style=flat&label=⭐)](https://github.com/Paca-AI/paca) | `Go` | [Explore ↗](https://github.com/Paca-AI/paca) |
 
 ---
